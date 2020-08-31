@@ -17,20 +17,6 @@ type Node struct {
 	Nodes   []Node     `xml:",any"`
 }
 
-func (n *Node) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
-	n.Attrs = start.Attr
-	type node Node
-
-	return d.DecodeElement((*node)(n), &start)
-}
-
-func (n *Node) MarshalXML(e *xml.Encoder, start xml.StartElement) error {
-	n.Attrs = start.Attr
-	type node Node
-
-	return e.EncodeElement((*node)(n), start)
-}
-
 // обработка запроса на расчет
 func processReportRequest(body *[]byte, w http.ResponseWriter) {
 	ID := sessions.Create()
