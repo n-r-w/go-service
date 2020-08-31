@@ -1,0 +1,11 @@
+github.com/aymerick/raymond v1.1.0 h1:phuNN2s67eI/HtO8CrvqFcdR2JP+BtkGJZ9n692Hr2Y=
+github.com/aymerick/raymond v2.0.2+incompatible h1:VEp3GpgdAnv9B2GFyTvqgcKvY+mfKMjPOA3SbKLtnU0=
+github.com/aymerick/raymond v2.0.2+incompatible/go.mod h1:osfaiScAUVup+UC9Nfq76eWqDhXlp+4UYaA8uhTBO6g=
+github.com/google/uuid v1.0.0 h1:b4Gk+7WdP/d3HZH8EJsZpvV7EtDOgaZLtnaNGIu1adA=
+github.com/google/uuid v1.0.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/legion-zver/go-docx-templates v0.0.0-20190909183856-83e215e5caec h1:tfPHv7majrYFAvtIfW3SirCrI2rhvOHq0JUyLqlNgYU=
+github.com/legion-zver/go-docx-templates v0.0.0-20190909183856-83e215e5caec/go.mod h1:6oFwMrnDkrAdZfKdDbpOIK7VYLD3tsxa7um/Mhhkbpc=
+github.com/pborman/uuid v1.2.0 h1:J7Q5mO4ysT1dv8hyrUGHb9+ooztCXu1D8MY8DZYsu3g=
+github.com/pborman/uuid v1.2.0/go.mod h1:X/NO0urCmaxf9VXbdlT7C2Yzkj2IKimNn4k+gtPdI/k=
+github.com/qida/go-docx-templates v0.0.0-20190526073423-a83af5a403fa h1:3g45Cl5lIWky8GvL7dvllMwiD2zP/paaRvHLQgXre0I=
+github.com/qida/go-docx-templates v0.0.0-20190526073423-a83af5a403fa/go.mod h1:1nGV9+KXLORmAnDzvi9Rp3dXICCY/x7rlxmsPousrMc=
